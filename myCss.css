@@ -1,0 +1,50 @@
+body
+{
+    background-color: rgb(80, 194, 175);
+}
+.table1
+{
+    background-color: rgb(131, 70, 155);
+    width: 100%;
+    padding: 10px;
+    color: white;
+}
+table, th, td ,tr
+{
+    
+    border-collapse: collapse;
+    width: 480px;
+    padding: 5px;
+    border: 2.5px solid rgb(3, 49, 3);
+    color: rgb(41, 19, 19);
+    background-color:rgb(219, 191, 129);
+    border-color:rgb(80, 194, 175);
+}
+.p
+{
+    background-color: rgb(207, 235, 230);
+    padding: 10px;
+    text-align: center;
+}
+.p1
+{
+    color: blue;
+}
+
+.box
+{
+    width: 100%;
+    padding: 10px;
+    border-left: 10px solid rgb(44, 109, 44);
+    color: rgb(41, 19, 19);
+    
+    
+    
+text-size-adjust: 100%;
+}
+.reg
+{
+    
+    background-color: rgb(200, 248, 177);
+    border-color: rgb(97, 131, 90);
+}
